@@ -28,3 +28,12 @@ The script will guide you through the process:
    When prompted, enter 'yes' to order food or 'no' to proceed to the final bill.
 3. If ordering food, select the item number and quantity. You can repeat this step multiple times.
 4. Once you finish ordering food, the final bill will be displayed on the console, and a file named qrcode.png will be created in the same directory, showing the total amount due.
+   
+Sample output images
+1-
+<img width="547" height="866" alt="image" src="https://github.com/user-attachments/assets/7ba22ecb-0cd7-4ae4-8c43-317305da0215" />
+<img width="316" height="341" alt="image" src="https://github.com/user-attachments/assets/72ca2bad-feb2-4102-b289-a853c8c59111" />
+2-
+<img width="716" height="1007" alt="image" src="https://github.com/user-attachments/assets/3a89f0e3-ca22-47db-b235-4dae448e281a" />
+<img width="657" height="477" alt="image" src="https://github.com/user-attachments/assets/c0d141e8-f218-4c4c-a1bd-cfaddd06ded7" />
+<img width="319" height="325" alt="image" src="https://github.com/user-attachments/assets/fbae6431-2699-4742-9dcd-8714939413a3" />
